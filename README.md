@@ -1,8 +1,29 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# The Merriest Time of The Year I | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Well, Christmas 2025 is coming. Given the current economy where everyone is
+on an extremely tight budget, I created these soundtracks just in case
+someone is having a quiet festival. The intention is clear: I just wish
+everyone can still have a great festival. Here's the first version.
+
+```
+#electronicmusic #soundtrack #uplifting #christmas #teenvocalist
+
+  File: Audios/The-Merriest-Time-Of-The-Year-I.mp3
+  Size: 8366080         Blocks: 16344      IO Block: 4096   regular file
+Access: 2025-10-30 20:40:49.295001446 +0800
+Modify: 2025-10-29 18:58:42.570908371 +0800
+Change: 2025-10-29 18:58:42.570908371 +0800
+ Birth: 2025-10-29 18:58:42.386907561 +0800
+
+On Published Date: 2025-10-29
+On YouTube since : 2025-11-02
+```
+
+[YouTube](https://www.youtube.com/watch?v=TienmVnlrpA) |
+[Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
 
 
 
@@ -19,12 +40,12 @@ YOU **MUST** attribute back to the arist(s) as follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : The Merriest Time of the Year I
 Artist : (Holloway) Chew, Kean Ho + UDIO
 Contact: hello@hollowaykeanho.com
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-the-merriest-time-of-the-year-i
 License: Creative Common Attribution 4.0 International License
-Procure: [MUSIC_URL_HERE]
+Procure: https://salsa.debian.org/chewkeanho-team/soundtracks/the-merriest-time-of-the-year-i
 --------------------------------------------------------------------------------
 ```
 

@@ -1,31 +1,37 @@
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+TITLE
+🎧 | The Merriest Time of the Year I
 
-(Sing-Along Lyrics Are Available As Subtitles!)
 
-#electronicmusic #soundtrack
+
+
+DESCRIPTION
+Well, Christmas 2025 is coming. Given the current economy where everyone is on an extremely tight budget, I created these soundtracks just in case someone is having a quiet festival. The intention is clear: I just wish everyone can still have a great festival. Here's the first version.
+
+#electronicmusic #soundtrack #uplifting #christmas #teenvocalist
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjSObLTAk-mC_DYeiBT-05A
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjALDxuCrPbpVheObmrGeqe
 
 
 § FAQ
 ━━━━━
-(1) Can I use this music for my video?
+(1) Can I use this music for my video, my business broadcast, etc?
 
-**YES BUT YOU MUST CREDIT THE CREATORS AS PER THE LICENSE REQUIREMENT** (read
-the above URL for full body license term-sheet). By all means, you should add the following into your video description:
+**YES BUT YOU MUST CREDIT THE CREATORS AS PER THE LICENSE REQUIREMENT** (read: https://creativecommons.org/licenses/by/4.0/ ). This is the ONLY requirement. By all means, you can do it by adding the following into your video description or mentions the origin is sufficient:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Title  : [MUSIC_TITLE_HERE]
+Title  : The Merriest Time of the Year I
 Artist : (Holloway) Chew, Kean Ho + UDIO
 Contact: hello@hollowaykeanho.com
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-the-merriest-time-of-the-year-i
 License: Creative Common Attribution 4.0 International License
-Procure: [MUSIC_URL_HERE]
+Procure: https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-i
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+There is no limit on number of use (as in royalty or project based charges).
 
 (2) Can you license the music for my project?
 
@@ -33,13 +39,9 @@ Procure: [MUSIC_URL_HERE]
 
 (3) Is this another A.I. Slop?
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
-**NO**
+**NOT REALLY**
 
-Unlike A.I. Slop that fully automate all kinds of A.I. output disregarding audiences' appreciations and flooding the publishers with nonsense contents, I do listen to all my musics, edit, purge, and optimize them until it passed my quality baseline.
-
-Currently, the ratio of successful tracks you're hearing here is like 32/200 successful retries. Sometimes I got 1/120 retries or wrost: 0/120. Also, I process the lyrics (whenever applicable) on my own.
-
-I only use A.I. with Cyborg approach; not full automation. Human is still in full control.
+I do listen to all my musics, edit, purge, and optimize them until it passed my quality baseline.
 
 (4) Why A.I. & Not Directly Invest Into Music Instruments?
 ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
@@ -50,3 +52,12 @@ I'm a tech guy specialized in semi-automatic technologies. Personally, I love mu
 Secondly, I'm a tech guy. Applied A.I. is part of my domain. I don't see a problem using it as a general purpose musical instrument. Besides, I did not restrict any professional musicians not to use A.I. unfairly. It's just personal opinions.
 
 I just see A.I. is the next step forward and I want it to augment me; not resisting it and self-making myself obsolete.
+
+
+
+
+TAGS
+
+electronicmusic, soundtrack, uplifting, christmas, teenfemalevocalist,
+femalevocalist, contemporary pop, dance pop, melodic, funny christmas,
+holiday themed
