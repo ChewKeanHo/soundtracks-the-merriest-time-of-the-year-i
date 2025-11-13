@@ -10,18 +10,20 @@ everyone can still have a great festival. Here's the first version.
 ```
 #electronicmusic #soundtrack #uplifting #christmas #teenvocalist
 
-  File: Audios/The-Merriest-Time-Of-The-Year-I.mp3
+  File: Audios/01_The-Merriest-Time-Of-The-Year-I.mp3
   Size: 8366080         Blocks: 16344      IO Block: 4096   regular file
-Access: 2025-10-30 20:40:49.295001446 +0800
-Modify: 2025-10-29 18:58:42.570908371 +0800
-Change: 2025-10-29 18:58:42.570908371 +0800
+Access: 2025-11-12 16:02:03.925176859 +0800
+Modify: 2025-11-02 06:50:35.984238897 +0800
+Change: 2025-11-13 15:04:57.131408298 +0800
  Birth: 2025-10-29 18:58:42.386907561 +0800
 
 On Published Date: 2025-10-29
-On YouTube since : 2025-11-02
+On YouTube since : 2025-10-29
 ```
 
-[YouTube](https://www.youtube.com/watch?v=TienmVnlrpA)
+[YouTube](https://www.youtube.com/watch?v=TienmVnlrpA) |
+[Download](https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-i/releases/download/Stores/01_The-Merriest-Time-Of-The-Year-I.mp3)
+
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -34,6 +36,7 @@ On YouTube since : 2025-11-02
 * [Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
 * [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -50,12 +53,14 @@ YOU **MUST** attribute back to the arist(s) as follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : The Merriest Time of the Year I
-Artist : (Holloway) Chew, Kean Ho + UDIO
+Title: The Merriest Time of the Year I
+Creators: (Holloway) Chew, Kean Ho + UDIO
 Contact: hello@hollowaykeanho.com
-SKU    : chewkeanho-soundtracks-the-merriest-time-of-the-year-i
+SKU: chewkeanho-soundtracks-the-merriest-time-of-the-year-i
 License: Creative Common Attribution 4.0 International License
-Procure: https://salsa.debian.org/chewkeanho-team/soundtracks/the-merriest-time-of-the-year-i
+Made On: 2025-10-29 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-the-merriest-time-of-the-year-i
 --------------------------------------------------------------------------------
 ```
 
